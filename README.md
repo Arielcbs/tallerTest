@@ -1,13 +1,16 @@
 # tallerTest
 
 #######################################################
+
 Solutions for the live code challenge
 
 1 - runLEnc.js
 
 2 - sortSquarArr.js
+
 #######################################################
 #######################################################
+
 Questions:
 
 Java Script
